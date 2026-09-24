@@ -64,5 +64,5 @@ button:hover{
 }
 
 .shoe_card:hover{
-    box-shadow: 0 0 4rem black;
+    box-shadow: 0 0 4rem rgba(0, 0, 0, 0.2);
 }
